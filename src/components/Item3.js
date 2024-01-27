@@ -1,6 +1,4 @@
 import React from "react";
-
-
 const Item3=()=>{
     
 
@@ -11,6 +9,5 @@ const Item3=()=>{
         </div>
     )
 }
-
 
 export default Item3;

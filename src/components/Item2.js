@@ -12,5 +12,4 @@ const Item2=()=>{
     )
 }
 
-
 export default Item2;
