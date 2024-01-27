@@ -8,9 +8,9 @@ const AllItems=()=>{
         <div>
          <h1> Item List</h1>
          <ul>
-            <li><Link to="/items/1">Item1</Link></li>
-            <li><Link to="/items/2">Item2</Link></li>
-            <li><Link to="/items/3">Item3</Link></li>
+            <li><Link to="/items/1">Item 1</Link></li>
+            <li><Link to="/items/2">Item 2</Link></li>
+            <li><Link to="/items/3">Item 3</Link></li>
          </ul>
         </div>
     )
